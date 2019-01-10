@@ -1,0 +1,5 @@
+In Python you can print things
+In Python you can cout numbers
+In Python you can do anything you want
+In Python you can run programs
+
